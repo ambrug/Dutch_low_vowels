@@ -7,7 +7,7 @@ These data belong with the ICPhS submission: Prominence effects on Dutch low vow
 
 Script files:
 
-    0_extractallV_CGN.txt Praat extraction script.
+    0_extractallV_CGN.praat Praat extraction script.
     1_preproces_targetwords.R Merges manually checked lexical info, word freq and speaker info from corpus with acoustic data. 
     2_analysis_vowels.R Analysis of vowels: linear models, Figures, RFs.
 
