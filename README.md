@@ -1,7 +1,7 @@
 # Dutch_low_vowels
 
 Analysis of Dutch low vowels January 2023. 
-These data belong with the ICPhS submission: Prominence effects on Dutch low vowels.
+Data for ICPhS submission: Prominence effects on Dutch low vowels.
 
     Study design, data prep and analysis: Anna Bruggeman
 
@@ -14,6 +14,6 @@ Script files:
 
 Data files:
 
-    subtlexNL.txt based on LINK (file with word frequency data from here: LINK)
+    subtlexNL.txt (based on file with word frequency data from here: http://crr.ugent.be/programs-data/subtitle-frequencies/subtlex-nl)
     wordlist_a_poly.csv List with all polysyllabic target words
     wordlist_a_mono_lemalph.csv List with all monosyllabic target words 
